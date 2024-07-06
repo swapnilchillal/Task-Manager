@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+#List {
+  display: flex;
+  margin-top: 40px;
+}
+
+#subText{
+  font-size: 25px;
+}
